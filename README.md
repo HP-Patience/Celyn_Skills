@@ -6,7 +6,7 @@ My personal collection of AI agent skills I use and create for coding with AI as
 
 | Skill | Description |
 |-------|-------------|
-| [vibe-learn](skills/vibe-learn/) | 为 Vibe Coder | 非科班开发者教授项目开发实践技能。只教"怎么用"和"怎么向AI描述需求"。 |
+| [vibe-learn](skills/vibe-learn/) | 为 Vibe Coding / 非科班开发者教授项目开发实践技能。只教"怎么用"和"怎么向AI描述需求"。 |
 | [requirement-validate](skills/requirement-validate/) | 需求理解确认闭环。复述需求让用户确认，确认后再实现。 |
 
 ## Structure
